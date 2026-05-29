@@ -184,7 +184,7 @@ $('document').ready(function(){
 
         $("p:nth-child(" + i + ")")
         .fadeIn(600)
-        .delay(1500);
+        .delay(1200);
 
         if (i == 50) {
 
